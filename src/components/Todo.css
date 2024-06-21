@@ -1,0 +1,28 @@
+
+
+.todo__list .MuiListItem-root {
+    padding: 16px;
+}
+
+.todo__list .MuiListItemText-primary {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.todo__list .MuiListItemText-secondary {
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.todo__list{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    border: 1px solid lightgray;
+    margin-bottom: 10px !important;
+    background-color: #f9f9f9;
+    margin: 10px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
